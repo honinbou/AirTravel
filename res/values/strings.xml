@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_host">http://211.144.155.155:5001/</string>
+	<string name="app_host_root">Interfaces/ </string>
+	<string name ="app_name">test</string>
+	<string name="net_error">当前网络不可用，请先连接Internet！</string>
+	<string name="loadTitle"><strong>正在更新数据</strong></string>
+	<string name="LoadContent"><strong>请稍候……</strong></string>
+	<string name = "http_get_login">UserLogin.ashx</string>
+</resources>
